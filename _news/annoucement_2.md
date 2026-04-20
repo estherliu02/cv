@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Computational Analysis Uncovering Contrasts in G-Quadruplex Propensity and Aptamer Enrichment in SELEX-Derived Libraries](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500614) is accepted at ChemBioChem. 
+[Computational Analysis Uncovering Contrasts in G-Quadruplex Propensity and Aptamer Enrichment in SELEX-Derived Libraries](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/cbic.202500614) is accepted at ChemBioChem.

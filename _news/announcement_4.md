@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Sci2Pol: Evaluating and Fine-tuning LLMs on Scientific-to-Policy Brief Generation](https://iclr.cc/virtual/2026/poster/10009432) is accepted at ICLR 2026. See you in Rio de Janeiro, Brazil 🇧🇷 
+[Sci2Pol: Evaluating and Fine-tuning LLMs on Scientific-to-Policy Brief Generation](https://iclr.cc/virtual/2026/poster/10009432) is accepted at ICLR 2026. See you in Rio de Janeiro, Brazil 🇧🇷
